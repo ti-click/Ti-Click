@@ -12,11 +12,11 @@ TiDB是一款有infra属性的产品，所以对开发人员来说，缺乏直�
 
 1. 方便快速的开启TiDB开发之旅: 开发人员提供一个基于浏览器的编程环境，开发人员无论是在平板还是电脑上打开浏览器，选择他想尝试的Example，就可以在云端为他提供一个App Example的编程环境。在我们右边的操作台，依次点击导入数据，编译，部署，打开前端页面的按钮，就可以访问一个非常完整，并且带有页面的项目。当然同时也会在云端提供相应的TiDB环境，比如说TiDB Sandbox或者是TiDB Cloud。
 
-<iframe src="//player.bilibili.com/player.html?aid=935575055&bvid=BV1mT4y1m7J5&cid=479613888&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=935575055&bvid=BV1mT4y1m7J5&cid=479613888&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 640px; height: 430px; max-width: 100%"> </iframe>
 
 2. 展现了TiDB对多种语言和框架支持的生态多样性: 我们目前已经支持了包含Python，Java，Nodejs，Golang，PHP,SpingMVC, Django,Laravl多种语言与框架。这里我们列出的图标，都是基于TiDB 或者 TiDB Cloud的可以正常运作的App Example。这些项目包含了非常完整的前端，后端，以及数据相关的处理代码。
 
-<iframe src="//player.bilibili.com/player.html?aid=935522787&bvid=BV1pT4y1m71r&cid=479612943&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=935522787&bvid=BV1pT4y1m71r&cid=479612943&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 640px; height: 430px; max-width: 100%"> </iframe>
 
 ### RoadMap
 今后我们的路线上，最优先的计划是想和TiDB Cloud打通，让想尝试Ti-Click的小伙伴优先选择TiDB Cloud。此外，我们还想吸引更多的厂商来丰富我们的生态，比如说一些SaaS的厂商，吸引他们来提供基于TiDB的代码案例，放到我们的Ti-Click平台。目前日本的一家游戏厂商其实就自研了一款链接TiDB的PHP的组件，我们目前也在把这个组件的Example放到Ti-Click中来。
