@@ -4,7 +4,7 @@
 
 如何跑起一个TiDB cluster，试试TiDB SQL等。这些内容无论是文字，视频还是互动性教学，更多的是以TiDB数据库能力为核心。我们希望从软件开发者的角度来看待，如何使用TiDB和基于TiDB开发程序。在有了这个直观的互动基础上，我们就可以再推广，使用TiDB的好处。
 
-## [TiDB Quick Start](https://glistening-pudding-ecfa72.netlify.app/) ⟵由此进入TiDB App Template
+## [TiDB Quick Start](https://glistening-pudding-ecfa72.netlify.app/)⟵由此进入TiDB App Template
 ![image](https://user-images.githubusercontent.com/81517726/197374865-0518c9b8-134c-4d3f-8667-c03b3996e8b8.png)
 
 ## Ti-Click 解决的问题
