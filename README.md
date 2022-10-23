@@ -4,12 +4,14 @@ Ti Click项目为开发人员提供一个基于浏览器的编程环境。开发
 
 如何跑起一个TiDB cluster，试试TiDB SQL等。这些内容无论是文字，视频还是互动性教学，更多的是以TiDB数据库能力为核心。我们希望从软件开发者的角度来看待，如何使用TiDB和基于TiDB开发程序。在有了这个直观的互动基础上，我们就可以再推广，使用TiDB的好处。
 
-## TiDB 软件墙
-[TiDB App Templates](https://glistening-pudding-ecfa72.netlify.app/)
+## Ti-CLick 软件墙
+![Examples](https://glistening-pudding-ecfa72.netlify.app/images/tidb-nodejs.png "Ti-Click")
+
+[软件墙](https://glistening-pudding-ecfa72.netlify.app/)
 
 ### Ti-Click 解决的问题
 
-1. 方便快速的开启TiDB开发之旅: 开发人员提供一个基于浏览器的编程环境，开发人员无论是在平板还是电脑上打开浏览器，选择他想尝试的Example，就可以在云端为他提供一个App Example的编程环境。在我们右边的操作台，依次点击导入数据，编译，部署，打开前端页面的按钮，就可以访问一个非常完整，并且带有页面的项目。当然同时也会在云端提供相应的TiDB环境，比如说TiDB Sandbox或者是TiDB Cloud。
+1. 方便快速的开启TiDB开发之旅: 开发人员提供一个基于浏览器的编程环境，开发人员无论是在平板还是电脑上打开浏览器，选择他想尝试的Example，就可以在云端为他提供一个App Example的编程环境。在我们右边的操作台，依次点击导入数据，编译，部署，打开前端页面的按钮，就可以访问一个非常完整，并且带有页面的项目当然同时也会在云端提供相应的TiDB环境，比如说TiDB Sandbox或者是TiDB Cloud。
 
 <iframe src="//player.bilibili.com/player.html?aid=935575055&bvid=BV1mT4y1m7J5&cid=479613888&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 640px; height: 430px; max-width: 100%"> </iframe>
 
