@@ -13,7 +13,7 @@
 
 <iframe src="//player.bilibili.com/player.html?aid=935575055&bvid=BV1mT4y1m7J5&cid=479613888&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 640px; height: 430px; max-width: 100%"> </iframe>
 
-2. 展现了TiDB对多种语言和框架支持的生态多样性: 我们目前已经支持了包含Python，Java，Nodejs，Golang，PHP,SpingMVC, Django,Laravl多种语言与框架。这里我们列出的图标，都是基于TiDB 或者 TiDB Cloud的可以正常运作的App Template。这些项目包含了非常完整的前端，后端，以及数据相关的处理代码。
+2. 展现了TiDB对多种语言和框架支持的生态多样性: 我们目前已经支持了包含Python，Java，Nodejs，Golang，PHP, SpingMVC, Django, Laravl多种语言与框架。这里我们列出的图标，都是基于TiDB 或者 TiDB Cloud的可以正常运作的App Template。这些项目包含了非常完整的前端，后端，以及数据相关的处理代码。
 
 <iframe src="//player.bilibili.com/player.html?aid=935522787&bvid=BV1pT4y1m71r&cid=479612943&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 640px; height: 430px; max-width: 100%"> </iframe>
 
