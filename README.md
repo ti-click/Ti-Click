@@ -21,21 +21,23 @@
 
 Hackathon 2021 上我们推出了基于Eclipse Che的IDE开发环境，并且为了体现展现了TiDB对多种语言和框架支持的生态多样性，我们支持了包含Python，Java，Nodejs，Golang，PHP,SpingMVC, Django,Laravl多种语言与框架的Sample App。
 
-#### 但Ti-Click存在三个非常大的问题:
+#### 但原先的Ti-Click存在三个非常大的问题:
 
 1. Eclipse Che的维护
 
-Eclipse Che是一个非常好的Online IDE环境，提供了丰富的功能以及极大的拓展性，但是它的弊端也非常明显。也就是需要自己维护Eclipse Che。Eclipse Che基于Kubernetes提供了Operator的部署方案，虽然部署方案较为成熟，但是如果对Kubernetes的熟练程度不高或者苦于Kubernetes的排错，那么使用Eclipse Che绝对是一个灾难。
+Eclipse Che需要自己维护Eclipse Che。Eclipse Che基于Kubernetes提供了Operator的部署方案，虽然部署方案较为成熟，但是如果对Kubernetes的熟练程度不高或者苦于Kubernetes的排错，那么使用Eclipse Che绝对是一个灾难。
 
 2. 耗费资源量巨大
 
-Online IDE因为包含了编程环境，部署环境以及演示环境，所以他所需的资源是惊人的。往往一两位用户的使用，就需要动辄每月几十美金的资源。对于普通企业，这个用户教育成本是非常巨大的。
+Online IDE因为包含了编程环境，部署环境以及演示环境，所以他所需的资源是惊人的。往往一两位用户的使用，就需要动辄每月几十美金的资源。
 
 3. Sample App无法专注于技术本身
 
-尽管Ti-Click提供了繁多的语言与框架的Sample App，但是这些语言和框架也存在着业务不统一的问题。比如说Java的Sample App是宠物医院，但是Python的Sample App却是图书商城。那么对于用户来说，不同的Sample App需要理解不同的业务是非常痛苦的。
+尽管Ti-Click提供了繁多的语言与框架的Sample App，但是这些语言和框架也存在着业务不统一的问题。比如说Java的Sample App是宠物医院，但是Python的Sample App却是图书商城。那么对用户来说，不同的Sample App需要理解不同的业务是非常痛苦的。
 
-**Ti-Click++使用gitpod的云服务，一次性解决Eclipse Che运维难和资源消耗问题。此外我们将统一业务模型，使用Real World的模板进行改造。这样可以让用户只需要理解一种业务，但是可以同时理解多种语言链接和使用TiDB的方案。**
+#### Ti-Click++
+
+为解决这些问题**Ti-Click++使用gitpod的云服务，一次性解决Eclipse Che运维难和资源消耗问题。此外我们将统一业务模型，使用Real World的模板进行改造。这样可以让用户只需要理解一种业务，但是可以同时理解多种语言链接和使用TiDB的方案。**
 
 ## 现存问题
 
