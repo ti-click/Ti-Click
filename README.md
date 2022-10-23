@@ -14,6 +14,9 @@
 
 <iframe src="//player.bilibili.com/player.html?aid=935522787&bvid=BV1pT4y1m71r&cid=479612943&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 640px; height: 430px; max-width: 100%"> </iframe>
 
+#### TiDB 软件墙
+[TiDB App Templates](https://glistening-pudding-ecfa72.netlify.app/)
+
 ### 现存问题
 
 TiDB是一款有infra属性的产品，所以对开发人员来说，缺乏直观的使用感受。尤其是在对用户进行宣传的时候，会有一些困难。目前面对开发者，我们包括友商提供的仅仅是文档。在github上提供一些Example。但是，要知道，一名开发者在部署一个Example的时候，他要配置环境，下载依赖，进行编译。这些行为麻烦不说，还有可能对他的本地环境产生影响。
