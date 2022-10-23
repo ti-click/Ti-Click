@@ -5,7 +5,7 @@ Ti Click项目为开发人员提供一个基于浏览器的编程环境。开发
 如何跑起一个TiDB cluster，试试TiDB SQL等。这些内容无论是文字，视频还是互动性教学，更多的是以TiDB数据库能力为核心。我们希望从软件开发者的角度来看待，如何使用TiDB和基于TiDB开发程序。在有了这个直观的互动基础上，我们就可以再推广，使用TiDB的好处。
 
 ## Ti-CLick 软件墙
-![Examples](https://glistening-pudding-ecfa72.netlify.app/images/tidb-nodejs.png "Ti-Click")
+![Screenshot 2022-10-23 at 12-52-33 Ti-Click](https://user-images.githubusercontent.com/81517726/197374474-866d1bde-34b1-40e5-ab34-6951ca952e21.png)
 
 [软件墙](https://glistening-pudding-ecfa72.netlify.app/)
 
